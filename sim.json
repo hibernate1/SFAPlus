@@ -1,0 +1,25 @@
+{
+  "sims": [
+    {
+      "sim_id": 1,
+      "operator": "Grameenphone",
+      "phone_number": "+8801712345678",
+      "status": "active",
+      "sim_slot": "SIM1"
+    },
+    {
+      "sim_id": 2,
+      "operator": "Robi",
+      "phone_number": "+8801812345678",
+      "status": "active",
+      "sim_slot": "SIM2"
+    },
+    {
+      "sim_id": 3,
+      "operator": "Banglalink",
+      "phone_number": "+8801912345678",
+      "status": "inactive",
+      "sim_slot": "SIM3"
+    }
+  ]
+}
